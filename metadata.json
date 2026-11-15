@@ -1,0 +1,8 @@
+{
+  "name": "孤独摇滚",
+  "description": "Bocchi the Rock! 结束乐队同人音乐站 Android 版：角色档案、黑胶音乐播放器、Bilibili MV播放、动态相册及账号收藏。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

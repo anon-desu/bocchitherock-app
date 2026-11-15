@@ -1,0 +1,21 @@
+# Android & Gradle build outputs
+.gradle/
+build/
+app/build/
+*/build/
+*.apk
+*.aab
+*.ap_
+*.dex
+.cxx/
+captures/
+local.properties
+
+# Editor & OS files
+.idea/
+*.iml
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+*.sw?
+*.log
