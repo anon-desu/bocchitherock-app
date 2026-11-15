@@ -1,6 +1,6 @@
 # 孤独摇滚 (Bocchi the Rock!) Android
 
-基于原 `[anon-desu/Bocchi-the-Rock](https://github.com/anon-desu/Bocchi-the-Rock)
+基于原 ` [anon-desu/Bocchi-the-Rock](https://github.com/anon-desu/Bocchi-the-Rock) 
 ` Web 项目重写为原生 **Kotlin + Jetpack Compose** Android 应用。
 
 ## 核心功能
